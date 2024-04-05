@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-dynatrace/examples
+module github.com/stasialej/pulumi-dynatrace/examples
 
 go 1.21

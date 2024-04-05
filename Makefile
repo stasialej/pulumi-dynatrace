@@ -2,9 +2,9 @@ PROJECT_NAME := dynatrace Package
 
 SHELL            := /bin/bash
 PACK             := dynatrace
-ORG              := pulumi
+ORG              := stasialej
 PROJECT          := github.com/${ORG}/pulumi-${PACK}
-NODE_MODULE_NAME := @pulumi/${PACK}
+NODE_MODULE_NAME := @stasialej/${PACK}
 TF_NAME          := ${PACK}
 PROVIDER_PATH    := provider
 VERSION_PATH     := ${PROVIDER_PATH}/pkg/version.Version

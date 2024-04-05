@@ -28,7 +28,7 @@ import (
 	"github.com/pulumi/pulumi/sdk/v3/go/common/resource"
 
 	// Replace this provider with the provider you are bridging.
-	dynatrace "github.com/iwahbe/terraform-provider-dynatrace/provider"
+	dynatrace "github.com/dynatrace-oss/terraform-provider-dynatrace/provider"
 
 	"github.com/stasialej/pulumi-dynatrace/provider/pkg/version"
 )

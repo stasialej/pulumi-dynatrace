@@ -19,8 +19,8 @@ package main
 import (
 	_ "embed"
 
-	dynatrace "github.com/pulumi/pulumi-dynatrace/provider"
 	"github.com/pulumi/pulumi-terraform-bridge/v3/pkg/tfbridge"
+	dynatrace "github.com/stasialej/pulumi-dynatrace/provider"
 	"github.com/stasialej/pulumi-dynatrace/provider/pkg/version"
 )
 

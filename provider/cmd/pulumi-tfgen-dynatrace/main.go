@@ -15,8 +15,8 @@
 package main
 
 import (
-	dynatrace "github.com/pulumi/pulumi-dynatrace/provider"
 	"github.com/pulumi/pulumi-terraform-bridge/v3/pkg/tfgen"
+	dynatrace "github.com/stasialej/pulumi-dynatrace/provider"
 	"github.com/stasialej/pulumi-dynatrace/provider/pkg/version"
 )
 
