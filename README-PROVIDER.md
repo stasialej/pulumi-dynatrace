@@ -1,6 +1,6 @@
 # Foo Resource Provider
 
-The Foo Resource Provider lets you manage [Foo](http://example.com) resources.
+The Pulumi Dynatrace Provider lets you manage [Foo](http://example.com) resources.
 
 ## Installing
 

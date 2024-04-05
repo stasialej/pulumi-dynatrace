@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/provider
+module github.com/stasialej/pulumi-dynatrace/provider
 
 go 1.21
 
@@ -7,4 +7,5 @@ replace github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/pulumi/terraf
 require (
 	github.com/pulumi/pulumi-terraform-bridge/v3 v3.69.0
 	github.com/pulumi/pulumi/sdk/v3 v3.98.0
+	github.com/dynatrace-oss/terraform-provider-dynatrace v1.54.2
 )

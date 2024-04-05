@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/sdk
+module github.com/stasialej/pulumi-dynatrace/sdk
 
 go 1.17
 
